@@ -1,0 +1,10 @@
+.env
+*.db
+__pycache__/
+.pytest_cache/
+.venv/
+venv/
+node_modules/
+dist/
+coverage/
+.DS_Store
